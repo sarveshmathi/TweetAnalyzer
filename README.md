@@ -13,6 +13,7 @@ abstraction
 Full details of the project and functionaility of the program can be found in **Module-11-Programming-Assignment.pdf**.
 
 **Summary**: 
+
 Government agencies such as the Centers for Disease Control can use social media information to 
 get an understanding of the spread of infectious disease. By analyzing the use of words and expressions 
 that appear over time on platforms such as Twitter, Facebook, etc., it is possible to estimate where 
@@ -21,7 +22,8 @@ the disease is affecting people and whether it is spreading or appears to be con
 In this assignment, we designed and developed an application that analyzes a small set of Twitter data to look 
 for tweets regarding occurrences of the flu and determines the US states in which these tweets occur.
 
-**Runtime arguments**
+**Runtime arguments**: 
+
 The runtime arguments to the program should specify, in this order:
 * the format of the tweets input file
 * the name of the tweets input file
